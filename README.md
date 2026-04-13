@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 As an Engineer and Web Developer, I offer a unique blend of technical expertise and hands-on web development skills. Specializing in WordPress and Shopify, I create websites that are not only visually appealing but also highly responsive, user-friendly, and optimized for performance. With a focus on clean code, efficient functionality, and seamless UX, I deliver innovative digital solutions that meet client goals. Committed to excellence and a deadline-driven approach, I provide professional, timely results tailored to your specific project needs.<br><br>
 
 
